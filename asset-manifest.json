@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/techmaster/static/css/main.293c4bb1.chunk.css",
+    "main.js": "/techmaster/static/js/main.22bbd6ad.chunk.js",
+    "main.js.map": "/techmaster/static/js/main.22bbd6ad.chunk.js.map",
+    "runtime-main.js": "/techmaster/static/js/runtime-main.574e6bcd.js",
+    "runtime-main.js.map": "/techmaster/static/js/runtime-main.574e6bcd.js.map",
+    "static/js/2.0476e4c0.chunk.js": "/techmaster/static/js/2.0476e4c0.chunk.js",
+    "static/js/2.0476e4c0.chunk.js.map": "/techmaster/static/js/2.0476e4c0.chunk.js.map",
+    "static/js/3.5f6749b7.chunk.js": "/techmaster/static/js/3.5f6749b7.chunk.js",
+    "static/js/3.5f6749b7.chunk.js.map": "/techmaster/static/js/3.5f6749b7.chunk.js.map",
+    "index.html": "/techmaster/index.html",
+    "static/css/main.293c4bb1.chunk.css.map": "/techmaster/static/css/main.293c4bb1.chunk.css.map",
+    "static/js/2.0476e4c0.chunk.js.LICENSE.txt": "/techmaster/static/js/2.0476e4c0.chunk.js.LICENSE.txt",
+    "static/media/8.b771b9e7.jpg": "/techmaster/static/media/8.b771b9e7.jpg",
+    "static/media/9.29816a4e.jpg": "/techmaster/static/media/9.29816a4e.jpg",
+    "static/media/logo.6ce24c58.svg": "/techmaster/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.574e6bcd.js",
+    "static/js/2.0476e4c0.chunk.js",
+    "static/css/main.293c4bb1.chunk.css",
+    "static/js/main.22bbd6ad.chunk.js"
+  ]
+}
