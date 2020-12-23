@@ -49,7 +49,7 @@ function App() {
       <div>Bài 2: Học viên số tuổi từ cao đến thấp: <br /> {JSON.stringify(Bai2())}</div><br />
       <div>Bài 3: Học viên sắp xếp theo tên: <br />{JSON.stringify(Bai3())}</div><br />
       <div>Bài 4: Học viên tên bắt đầu chữ H: <br />{JSON.stringify(Bai4())}</div><br />
-      <table className="table">
+      <table className="table" width="100%">
         <tr>
           <td><img src={img1}/></td>
           <td><img src={img2}/></td>

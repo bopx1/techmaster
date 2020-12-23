@@ -1,5 +1,5 @@
-.table tr{
-  text-align: center;
+.table td{
+  width: 33%;
 }
 
 .App {
